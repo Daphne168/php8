@@ -3,6 +3,10 @@
 修改頁是 edit.php <br>
 設定資料庫是 config.php <br>
 
+#增加防竄改功能
+列表頁是 list_page2.php <br>
+修改頁是 edit2.php <br>
+
 #config.php中 以下設定需要改為你自己的環境<br>
 define('DB_SERVERIP', '你的db server ip位址');<br>
 define('DB_USERNAME', '你的db使用者名稱');<br>
