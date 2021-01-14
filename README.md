@@ -3,7 +3,7 @@
 修改頁是 edit.php <br>
 設定資料庫是 config.php <br>
 
-#增加防竄改功能
+增加防竄改功能 <br>
 列表頁是 list_page2.php <br>
 修改頁是 edit2.php <br>
 
